@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(55,98,177);
+}
+h1{
+    /* color: rgb(255, 255, 255); */
+    /* color: rgba(255, 255, 0,1); */
+    /* background-color: rgba(224, 203, 19, 1); */
+    /* color: #0ff504 ; */
+    color: rgb(34, 238, 218);
+    /* z-index  */
+    /* opacity  */
+}
+/* colors 
+
+by name > red,blue,green
+rgb
+    rgb(123 , 255 , 31)
+    0-255 
+
+
+
+rgba a stand for alpha > transpernt
+  rgba(0,0,0,0)
+  0-1
+  0.1 0.8 0.5
+
+
+hexa method #_____
+    #ffffff
+    rrggbb
+    0-min
+    15-max
+    0-9 number
+    10 - a
+    11 - b
+    12 - c
+    13 - d
+    14 - e
+    15 - f
+
+
+
+
+
+*/
