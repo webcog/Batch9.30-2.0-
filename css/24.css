@@ -1,0 +1,46 @@
+/* universal selector  */
+*{
+    /* color: red; */
+    /* margin: 0;
+    padding: 0; */
+}
+/* opcity  */
+/* h1{
+    background-color: blue;
+    opacity: 0.6;
+} */
+/* body{ */
+    /* background-color: #ff00ff; */
+    /* background: url(../img/bg.png); */
+    /* background-position: bottom right; */
+    /* background-repeat: no-repeat; */
+/* }  */
+/* .bg{
+    background: url(../img/bg.png);
+} 
+ h1{
+    color: #ffffff;
+}  */
+
+/* .box{
+    height: 113px;
+    width: 200px;
+    background: url(../img/box.png);
+    opacity: 0.6;
+    background-repeat: no-repeat;
+}
+.box:hover{
+    opacity: 1;
+} */
+
+.box{
+    height: 150px;
+    width: 150px;
+    /* border: 2px solid rgb(0,255,0); */
+    border-top: 2px solid green;
+    border-left: 2px solid red;
+    border-bottom: 2px solid blue;
+    border-right: 2px solid purple;
+    border-radius: 50%;
+    background: linear-gradient(aqua , yellow);
+}
