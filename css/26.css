@@ -1,0 +1,41 @@
+*{
+   margin: 0;
+   padding: 0; 
+}
+/* body{
+    margin: 0;
+} */
+div{
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    border: 5px solid black;
+    /* margin-top: 90px;
+    padding-top: 90px;
+    padding-bottom: 40px;
+    padding-left: 10px; */
+    /* border-top: 5px solid aqua; */
+    /* 
+        dotted
+        dashed
+        double
+        groove
+        ridge
+        inset
+        solid 
+        outset
+        
+    
+    */
+    /* outline  */
+
+    /* outline: 5px solid red;
+    outline-offset: 2px; */
+    /* border-radius: 50%; */
+    /* margin: auto; */
+    /* margin-left:150px ; */
+    /* block leve and inline  */
+
+
+    /* box model  */
+}
