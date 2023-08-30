@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Rubik+Iso&family=Sedgwick+Ave+Display&display=swap');
+
+/* .box{
+    height: 150px;
+    width: 150px;
+    margin: auto;
+    margin-top: 150px;
+    background-color: red;
+    border-radius: 50px;
+    border-radius: 50px;  4-side
+    border-radius: 0px 50px ; 1-3 2-4
+    border-radius: 0px 50px 80px; 1 2-4 3
+    border-radius: 0px 50px 80px 100px; 1 2 3 4
+}
+
+.box:hover{
+    border-radius: 0px 50px ;
+} */
+
+h1{
+    /* font-family: monospace; */
+    /* 
+        serif - edges strokes
+        san-serif - plan fonts
+        cursive - close to human hand-writing
+        fantasy - 
+        monospace
+    
+    */
+
+}
+.f1{
+    font-family: serif;
+}
+.f2{
+    font-family: sans-serif;
+}
+.f3{
+    font-family: cursive;
+}
+.f4{
+    font-family: fantasy;
+}
+.f5{
+    font-family: monospace;
+}
+.f6{
+    font-family: 'Rubik Iso';
+}
+.f7{
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+.f8{
+    font-family: 'Caveat', cursive;
+}
+/* font-family: 'Caveat', cursive;
+font-family: 'Rubik Iso', cursive;
+font-family: 'Sedgwick Ave Display', cursive; */
