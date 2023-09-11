@@ -1,0 +1,90 @@
+/* pseudo element 
+
+selector::pseudo-element-prop{
+
+
+
+}
+::first-line
+*/
+
+/* p::first-line{
+    color: red;
+    font-size: 28px;
+}
+
+p::first-letter{
+    color: rgb(0, 42, 255);
+    font-size: 40px;
+} */
+
+/* ::marker{
+    color: rgb(0, 255, 195);
+} */
+
+/* ::before , ::After  */
+
+/* ::selection  */
+
+/* h1::selection{
+    background-color: rgb(255, 200, 0);
+    color: blueviolet;
+}
+p::selection{
+    background-color: aqua;
+    color: rgb(30, 255, 0);
+} */
+/* ::selection{
+    background-color: chocolate;
+    color: aqua;
+} */
+/* -------------------------------------------------- */
+/* pseudo class 
+
+selector:pseudo-class{
+
+}
+
+
+*/
+
+
+/*
+div:hover{
+    background-color: aqua;
+}
+div:active{
+    background-color: green;
+} */
+
+/* a{
+    color: red;
+} */
+/* a:link{
+    color: aqua;
+} 
+a:visited{
+    color: green;
+} */
+/* a:hover{
+    color: rgb(183, 210, 13);
+}
+a:active{
+    color: cornflowerblue;
+} */
+/* link work  */
+/* link 
+    visited
+    hover
+    active
+
+*/
+
+div:nth-child(6){
+    background-color: red;
+    height: 150px;
+    width: 150px;
+}
+/* even 
+odd
+number 1 - infinte */

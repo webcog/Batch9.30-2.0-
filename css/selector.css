@@ -1,0 +1,88 @@
+/*
+simple selector
+    by name
+    by id #
+    by class .
+    universal selec... *
+    grouping selector ,
+
+
+combinator > parent child relation (optional)
+    descandant selector sign " " 
+    child sele..  >
+    adjacent sibling sele...  + 
+    genreal sibiling sele...  ~ tild
+
+
+    pseudo element
+    pseudo class
+    attribute (optional)
+
+*/
+
+
+
+
+/* *{
+  margin: 0;
+  padding: 0;
+} */
+
+
+/* h1,h2,h3,p{
+    color: red;
+    border: 2px solid aqua;
+    background-color: blue;
+} */
+/* .test{
+    color: red;
+    border: 2px solid aqua;
+    background-color: blue;
+} */
+/* .a,.b,.c{
+    background-color: yellowgreen ;
+} */
+/* #a,#b,#c{
+    background-color: greenyellow;
+} */
+
+/* h1{
+    color: red;
+    border: 2px solid aqua;
+}
+h2{
+    color: red;
+    border: 2px solid aqua;
+}
+h3{
+    color: red;
+    border: 2px solid aqua;
+}
+p{
+    color: red;
+    border: 2px solid aqua;
+
+} */
+
+/* #tst{
+    color: rgb(255, 0, 0);
+} */
+/* two or more than two persons group  */
+
+/* div p{
+    background-color: yellowgreen;
+    color: aqua;
+} */
+/* div>p{
+    background-color: yellowgreen;
+    color: aqua;
+} */
+/* div + p {
+    background-color: red;
+} */
+/* .test ~ p {
+    background-color: red;
+} */
+.r{
+    background-color: red;
+}
