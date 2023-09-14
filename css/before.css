@@ -1,0 +1,64 @@
+/* before and after 
+
+
+*/
+/* h1::before{
+    content: 'Start'; 
+    alphabates 
+    position: absolute;
+}
+h1::after{
+    content: 'End';
+} */
+
+
+
+/* 
+.box{
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    background: linear-gradient(aqua,purple);
+    margin: auto;
+    margin-top: 150px;
+    border-radius: 10px;
+}
+.box:hover{
+    border-radius: 50%;
+    transition:border-radius 1s 1s ;
+}
+
+.box::before{
+    content: '';
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    background-color: rgb(255, 255, 255); 
+    border-radius: 50%;
+    top: 137px;
+    left: 602px;
+}
+.box:hover::before{
+    left: 702px;
+    top: 237px;
+    border-radius: 0;
+    transition: left 1s,top 1s 1s,border-radius 2s .5s;
+}
+
+.box::after{
+    content: '';
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    background-color: #ffffff;
+    top: 258px;
+    left: 708px;
+    border-radius: 50%;
+}
+
+.box:hover::after{
+    left: 605px;
+    top: 158px;
+    border-radius: 0;
+    transition: left 1s,top 1s 1s,border-radius 2s .5s;
+} */
