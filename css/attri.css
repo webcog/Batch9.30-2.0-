@@ -1,0 +1,69 @@
+/* attribute selector
+
+kisi :> by attribute => select
+
+*/
+
+/* .test{
+    color: red;
+} */
+/* a:nth-child(2){
+    color: red;
+} */
+/* form design  */
+/* a[target="_blank"]{
+    color: yellow;
+} */
+/* input{
+    
+    background-color: rebeccapurple;
+} */
+/* input[type="text"]{
+    background-color: aqua;
+}
+input[type="email"]{
+    background-color: rgb(255, 238, 0);
+}
+input[type="password"]{
+    background-color: rgb(255, 0, 0);
+} */
+/* !important  */
+/* .cls{
+    color: green ;
+}
+
+h1{
+    color: red !important;
+}
+#idtest{
+    color: rgb(123, 0, 255) ;
+} */
+/* by name => value applied 
+2 - by and by calss >
+class compare byname
+
+class
+
+ name >
+ name- class > class
+ name class - id > id 
+name id > id
+
+
+
+
+*/
+/* langs rules 
+porp:value;
+ */
+
+/* 
+ body{
+    background-image: url(../img/image2.jpg);
+ } */
+
+ div{
+    height:100px ;
+    width: 100px;
+    background-image: url(../img/box.png);
+ }
