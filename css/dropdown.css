@@ -1,0 +1,21 @@
+/* .dropdown{
+    background-color: red;
+    padding: 8px;
+    display: inline-block;
+}
+.dropdown-content{
+    display: none;
+    width: 160px;
+    background-color: #ffffff;
+    padding: 10px;
+    color: black;
+    box-shadow: 0px 8px 16px gray;
+}
+.dropdown:hover .dropdown-content{
+    display: block;
+}   
+
+testing  */
+h1{
+    color: #00d5ff;
+}

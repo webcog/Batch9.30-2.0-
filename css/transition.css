@@ -1,0 +1,68 @@
+/* .box{
+    height: 150px;
+    width: 150px;
+    background-color: red;
+
+} */
+/*
+ tansition 
+trans-delay
+trans-duration  
+linear-ease-ease-in-ease-out>
+
+
+
+*/
+/* .box:hover{
+    width: 600px;
+    background-color: blueviolet;
+    height: 500px;
+    transition:width 3s 3s, background-color 3s,height 3s;
+    
+} */
+/* 2d tranform  */
+
+.box2{
+    height: 150px;
+    width: 150px;
+    background:linear-gradient(aqua,purple);
+    margin: auto;
+    margin-top: 200px;
+    
+   
+} 
+.box2:hover{
+    background:linear-gradient(60deg,aqua,purple);
+    transform: rotate(360deg);
+    border-radius: 50%;
+    transition: transform 0.5s ,border-radius 4s;
+    /* 1000milisecons = 1s  */
+    /* transform: translate(40px,60px); */
+    /* transform: translateY(40px); */
+    /* transform: translateX(40px); */
+}
+
+/* 
+
+
+x, y 
+
+
+2d
+
+transform
+
+translate , translateX, translateY
+rotate(),
+scaleX(), scaleY(), scale()
+skewX(), skewY(), skew()
+matrix()
+
+3d-
+
+rotateX
+rotateY
+rotateZ
+
+
+*/
