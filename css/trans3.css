@@ -1,0 +1,39 @@
+/* skew matrix  */
+/* .box{
+    margin: auto;
+    margin-top: 150px;
+    height: 150px;
+    width: 350px;
+    background-color: red;
+    transform: skewY(120deg);
+    transform: skewX(120deg);
+    transform: scale(1,1);
+
+    scaleX,skewY,skewX,scacleY,translateX,traslateY
+    
+    transform: matrix(1,0,0.5,1,0,100);
+
+
+} */
+/* 3d transform  
+
+rotateX
+rotateY
+rotateZ
+
+*/
+
+.box{
+    margin: auto;
+    margin-top: 150px;
+    height: 150px;
+    width: 300px;
+    background-color: red;
+    /* transform: rotateY(60deg); */
+    /* transform: rotateX(40deg); */
+    
+}
+.box:hover{
+    transform: rotateZ(160deg);
+    transition:transform 4s ;
+}

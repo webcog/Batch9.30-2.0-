@@ -1,0 +1,25 @@
+.box{
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    margin: auto;
+    margin-top: 150px;
+}
+
+/* @keyframes myAni */
+
+/* 
+    @keyframes
+    animation-name
+    ani-duration
+    ani-delay
+    ani-itrations  > 1 > 2 | infinite
+    ani-direction
+    ani-timing funcation linear>ease>ease-in
+    ani-fill mode 
+    animation > property
+
+
+
+
+*/
