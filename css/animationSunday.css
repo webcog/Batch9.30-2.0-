@@ -1,0 +1,62 @@
+.box{
+    width: 150px;
+    height: 150px;
+    background-color: red;;
+    position: relative;
+    animation: myAni 2s infinite ;
+    /* 1s 1ms
+    1s = 1000ms 
+    */
+}
+@keyframes myAni {
+    0%{
+        background-color: red;
+        left: 0;
+        top: 0;
+    }
+    25%{
+        background-color: yellow;
+        left: 300px;
+        top: 0;
+    }
+    50%{
+        background-color: blue;
+        left: 300px;
+        top: 300px;
+    }
+    75%{
+        background-color: brown;
+        left: 0;
+        top: 300px;
+    }
+    100%{
+        background-color: purple;
+        left: 0;
+        top: 0;
+    }
+}
+/* 
+@keyframes myAni{
+    from{
+        transform: rotate(0);
+        background-color: red;
+    }
+    to{
+        transform: rotate(360deg);
+        background-color: aqua;
+    }
+} */
+
+
+/* 
+    @keyframes
+    animation-name
+    ani-duration
+    ani-delay
+    ani-itrations  > 1 > 2 | infinite
+    ani-direction
+    ani-timing funcation linear>ease>ease-in
+    ani-fill mode 
+    animation > property
+
+*/

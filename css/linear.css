@@ -1,0 +1,70 @@
+/* 
+
+linear
+ease
+ease-in
+ease-out
+ease-in-out
+
+
+*/
+/* div{
+    width: 100px;
+    height: 50px;
+    background-color: red;
+    position: relative;
+    
+}
+#div1{
+    animation: myAni 5s infinite linear;
+}
+#div2{
+    animation: myAni 5s infinite ease;
+}
+
+#div3{
+    animation: myAni 5s infinite ease-in;
+}
+
+#div4{
+    animation: myAni 5s infinite ease-out;
+}
+
+#div5{
+    animation: myAni 5s infinite ease-in-out;
+}
+
+
+@keyframes myAni {
+    from{
+        left: 0;
+    }
+    to{
+        left: 700px;
+    }
+} */
+
+.box{
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    margin: auto;
+    margin-top: 150px;
+    animation:myRot 2s 1 both;
+}
+/* none 
+backward
+forward
+both
+
+*/
+@keyframes myRot {
+    from{
+        background-color: red;
+        border-radius: 0;
+    }
+    to{
+        background-color: green;
+        border-radius: 50%;
+    }
+}
